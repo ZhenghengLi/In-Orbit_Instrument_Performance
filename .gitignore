@@ -1,0 +1,9 @@
+*.synctex.gz
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.spl
+*.out
+!**/publication/*.pdf
